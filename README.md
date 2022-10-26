@@ -11,3 +11,12 @@
 - 30146 pairs of parallel phrases in Yakut and Russian languages
 - 9958 pieces of news in Yakut language from https://ulus.media/ splitted into sentences (each piece of news is separated with an empty string)
 - [TO BE POSTED] 42 pieces of news in Yakut translated into Russian by professional translators
+
+BibTeX Snippet
+@online{
+  author = {Mariya Shmatova, Anton Dvorkovich},
+  title = {SakhaTyla dataset},
+  year = 2022,
+  url = {[https://github.com/mashashma/WMT2022-data/yakut]},
+  urldate = {2022-02-06}
+}
